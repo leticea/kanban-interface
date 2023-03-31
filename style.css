@@ -105,3 +105,18 @@ section.filter {
   align-items: center;
   gap: 0.8rem;
 }
+
+.filter button span {
+  text-shadow: 0rem 0.4rem 1.6rem rgba(22, 22, 22, 0.1);
+  font-size: 1.4rem;
+}
+
+.filter button ion-icon {
+  font-size: 2.4rem;
+}
+
+.input-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
