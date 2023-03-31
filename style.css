@@ -79,3 +79,29 @@ section.title-avatar {
   height: 6.4rem;
   border-radius: 50%;
 }
+
+h1 {
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+  font-size: 3.2rem;
+  color: #403937;
+}
+
+section.filter {
+  margin-top: 3.2rem;
+  padding: 0 2.4rem;
+  display: flex;
+  gap: 1.2rem;
+}
+
+.filter button {
+  padding: 1.2rem 3.2rem;
+  border: 0;
+  background: #7c3aed;
+  border-radius: 0.5rem;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+}
