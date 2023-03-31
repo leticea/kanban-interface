@@ -141,3 +141,25 @@ section.filter {
 .input-wrapper:has(:focus) {
   outline: 0.2rem #000 solid;
 }
+
+.input-wrapper input::placeholder {
+  font-size: 1.6rem;
+  color: #7c7c8a;
+}
+
+section.kanban {
+  display: flex;
+  gap: 4.8rem;
+  padding-top: 3.2rem;
+}
+
+section.kanban > * {
+  flex: 1;
+  padding: 2.4rem;
+}
+
+section.kanban h2 {
+  font-size: 2rem;
+  color: #403937;
+  padding: 2.4rem 0;
+}
