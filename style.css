@@ -26,3 +26,11 @@ main .inner {
   background-color: #fbfaff;
   border-top-left-radius: 32px;
 }
+
+main {
+  padding-top: 0.8rem;
+}
+
+nav {
+  padding: 3.2rem 2.7rem 0 3.5rem;
+}
