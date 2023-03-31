@@ -200,3 +200,9 @@ section.kanban h2 {
   border-radius: 0.8rem;
   padding: 0.4rem 0.8rem;
 }
+
+.cards {
+  display: flex;
+  flex-direction: column;
+  gap: 2.4rem;
+}
