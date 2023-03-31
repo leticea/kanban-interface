@@ -8,11 +8,16 @@
 
 :root {
   font-size: 62.5%;
+  font-family: "Inter", sans-serif;
 }
 
 body {
   font-size: 1.6rem;
   background-color: #7c3aed;
+}
+
+a {
+  text-decoration: none;
 }
 
 #app {
@@ -33,4 +38,12 @@ main {
 
 nav {
   padding: 3.2rem 2.7rem 0 3.5rem;
+  min-width: 11.5rem;
+}
+
+ul {
+  margin-top: 6rem;
+  list-style: none;
+  display: grid;
+  gap: 3.6rem;
 }
