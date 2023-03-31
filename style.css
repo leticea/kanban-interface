@@ -30,6 +30,7 @@ main .inner {
   height: 100%;
   background-color: #fbfaff;
   border-top-left-radius: 32px;
+  padding: 4.8rem 3.2rem;
 }
 
 main {
@@ -38,7 +39,6 @@ main {
 
 nav {
   padding: 3.2rem 2.7rem 0 3.5rem;
-  min-width: 11.5rem;
 }
 
 ul {
@@ -46,4 +46,30 @@ ul {
   list-style: none;
   display: grid;
   gap: 3.6rem;
+  min-width: 11.5rem;
+}
+
+li a {
+  color: #cab3ff;
+  display: flex;
+  align-items: center;
+  gap: 1.6rem;
+  font-weight: 500;
+}
+
+a.active,
+a:hover {
+  color: #fff;
+  font-weight: 700;
+}
+
+a ion-icon {
+  font-size: 2rem;
+}
+
+section.title-avatar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.1rem 2.4rem;
 }
