@@ -163,3 +163,11 @@ section.kanban h2 {
   color: #403937;
   padding: 2.4rem 0;
 }
+
+.card {
+  padding: 2.4rem;
+  background: #ffffff;
+  box-shadow: 0rem 0.4rem 1.6rem #eae2fd;
+  border-radius: 0.8rem;
+  line-height: 130%;
+}
