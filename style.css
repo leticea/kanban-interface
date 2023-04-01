@@ -171,6 +171,9 @@ section.kanban h2 {
   box-shadow: 0rem 0.4rem 1.6rem #eae2fd;
   border-radius: 0.8rem;
   line-height: 130%;
+
+  width: 35rem;
+  height: 15.3rem;
 }
 
 .card h3 {
