@@ -119,6 +119,12 @@ Projetos #boraCodar da [Rocketseat](https://boracodar.dev/).
       <td>26/04/23</td>
       <td><a href="https://github.com/leticea/contact-list-rocketseat">🔗</a></td>
     </tr>
+    <tr>
+      <td>17</td>
+      <td>Date Picker</td>
+      <td>03/05/23</td>
+      <td><a href="https://github.com/leticea/calendar-rocketseat">🔗</a></td>
+    </tr>
   </tbody>
 </table>
 
