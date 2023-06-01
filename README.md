@@ -140,7 +140,7 @@ Projetos #boraCodar da [Rocketseat](https://boracodar.dev/).
   </tbody>
 </table>
 
-## 🚀 Como Rodar
+## ⚙️ Como Rodar
 
 - Clone o projeto.
 - Entre no repositório e clique duas vezes no arquivo index.html.
