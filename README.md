@@ -155,6 +155,12 @@ Projetos #boraCodar da [Rocketseat](https://boracodar.dev/).
       <td>21/06/23</td>
       <td><a href="https://github.com/leticea/lighting-adjustment">🔗</a></td>
     </tr>
+    <tr>
+      <td>25</td>
+      <td>Virtual Reality Video Player</td>
+      <td>28/06/23</td>
+      <td><a href="https://github.com/leticea/virtual-reality-video-player">🔗</a></td>
+    </tr>
   </tbody>
 </table>
 
