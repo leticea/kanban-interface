@@ -185,6 +185,12 @@ Projetos #boraCodar da [Rocketseat](https://boracodar.dev/).
       <td>26/07/23</td>
       <td><a href="https://github.com/leticea/before-after-interface">🔗</a></td>
     </tr>
+    <tr>
+      <td>32</td>
+      <td>Ask SQL With AI</td>
+      <td>16/08/23</td>
+      <td><a href="https://github.com/leticea/ask-sql-IA">🔗</a></td>
+    </tr>
   </tbody>
 </table>
 
